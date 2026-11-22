@@ -1,0 +1,8 @@
+{
+  "name": "The Fact-Check Agent",
+  "description": "AI-powered PDF fact-checking platform that extracts claims, verifies them against live web sources, and generates evidence-backed audit reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
